@@ -1,5 +1,4 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -31,7 +30,5 @@ Flask
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/shahin-mohamed-pk
 [product-screenshot1]: screenshot1.png
 [product-screenshot2]: screenshot2.png
