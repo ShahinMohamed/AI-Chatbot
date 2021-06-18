@@ -9,8 +9,8 @@
 A retrival-based chatbot which focuses on casual interaction with the user and using textual conversation to predict user's emotion. Bidirectional LSTM model is used to predict the emotion. If the predicted emotion is intese and negative, link to a youtube video is generated. 
 The dataset for the emotion detection model is collected from reddit using PRAW API.
 
-[![Product Name Screen Shot][product-screenshot1]]
-[![Product Name Screen Shot][product-screenshot2]]
+![Screenshot1][product-screenshot1]
+![Screenshot2][product-screenshot2]
 
 ### Built With
 Python, 
@@ -33,5 +33,5 @@ Flask
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/shahin-mohamed-pk
-[product-screenshot1]: images/screenshot1.png
-[product-screenshot1]: images/screenshot2.png
+[product-screenshot1]: screenshot1.png
+[product-screenshot2]: screenshot2.png
